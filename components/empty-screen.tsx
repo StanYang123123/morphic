@@ -7,16 +7,16 @@ const exampleMessages = [
     message: 'Why is Nvidia growing rapidly?'
   },
   {
-    heading: 'Is the Apple Vision Pro worth buying?',
-    message: 'Is the Apple Vision Pro worth buying?'
+    heading: 'What is the MiniEV trend in China?',
+    message: 'What is the MiniEV trend in China?'
   },
   {
     heading: 'How does the Vercel AI SDK work?',
     message: 'How does the Vercel AI SDK work?'
   },
   {
-    heading: 'Tesla vs Rivian',
-    message: 'Tesla vs Rivian'
+    heading: 'Tesla vs Stellantis',
+    message: 'Tesla vs Stellantis'
   }
 ]
 export function EmptyScreen({
